@@ -19,13 +19,7 @@
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.TagHelpers.input.cache
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.TagHelpers.output.cache
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.RazorCoreGenerate.cache
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/New.cshtml.g.cs
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Categories/Show.cshtml.g.cs
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Items/DeleteAll.cshtml.g.cs
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Items/New.cshtml.g.cs
-/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Show.cshtml.g.cs
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Shared/Footer.cshtml.g.cs
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cache
@@ -37,3 +31,10 @@
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
 /Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/appsettings.json
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/MySqlConnector.dll
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/ramenimo/Desktop/to-do-list-db/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs

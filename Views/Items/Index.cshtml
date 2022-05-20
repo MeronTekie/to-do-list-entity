@@ -1,0 +1,15 @@
+@{
+  Layout = "_Layout";
+}
+@using ToDoList.Models;
+<h1>List of Items</h1>
+@if (@Model.Count == 0)
+{
+  <p>Sorry No items to be listed!</p>
+}
+
+@foreach (Item item in Model)
+{
+  <p>@item.Description</p>
+  
+}
